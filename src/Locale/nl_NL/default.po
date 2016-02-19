@@ -1,0 +1,59 @@
+# ----- Begin Login Translation ----- #
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+msgid "Password"
+msgstr "Wachtwoord"
+
+msgid "Back"
+msgstr "Terug"
+
+msgid "Create your account"
+msgstr "Maak je account"
+
+msgid "Heads up"
+msgstr "Let op"
+
+msgid "Error"
+msgstr "Fout"
+
+msgid "The user could not be saved. Please, try again."
+msgstr "Deze gebruiker kon niet opgeslagen worden, probeer het opnieuw."
+
+msgid "The passwords do not compare"
+msgstr "Deze wachtwoorden komen niet overheen"
+
+msgid "This value is already in use"
+msgstr "Deze waarde is al in gebruik"
+
+msgid "An username is required"
+msgstr "Een gebruikersnaam is verplicht"
+
+msgid "A password is required"
+msgstr "Een wachtwoord is verplicht"
+
+msgid "An email is required"
+msgstr "Een email is verplicht"
+
+msgid "Invalid username or password, try again"
+msgstr "Verkeerde naam of wachtwoord ingevoerd, probeer opnieuw"
+# ----- End login translation ----- #
+
+# ----- Begin Category Section translating ----- #
+msgid "The category could not be saved. Please, try again."
+msgstr "Deze categorie kon niet worden opgeslagen. Probeer opnieuw."
+
+msgid "Create a category"
+msgstr "Maak een nieuwe categorie"
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "Name your category"
+msgstr "Geef je categorie een naam"
+
+msgid "Describe the category"
+msgstr "Omschrijf de categorie"
+
+msgid "Add category"
+msgstr "Toevoegen"

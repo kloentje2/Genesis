@@ -1,0 +1,2 @@
+msgid "The passwords do not compare"
+msgstr "Deze wachtwoorden komen niet overheen"
